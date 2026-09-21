@@ -47,30 +47,40 @@ What I build
 - ◈ Custom Digital Products
 
 ---
-
 ⚡ TECHNOLOGY
 
 Frontend
 
-"HTML" "CSS" "JavaScript" "TypeScript" "React" "Next.js"
+<p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.simpleicons.org/html5/E34F26" width="42" height="42" alt="HTML5"></a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.simpleicons.org/css/1572B6" width="42" height="42" alt="CSS3"></a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="42" height="42" alt="JavaScript"></a>&nbsp;&nbsp;
+<a href="https://www.typescriptlang.org/"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="42" height="42" alt="TypeScript"></a>&nbsp;&nbsp;
+<a href="https://react.dev/"><img src="https://cdn.simpleicons.org/react/61DAFB" width="42" height="42" alt="React"></a>&nbsp;&nbsp;
+<a href="https://nextjs.org/"><img src="https://cdn.simpleicons.org/nextdotjs/000000" width="42" height="42" alt="Next.js"></a>&nbsp;&nbsp;
+<a href="https://tailwindcss.com/"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="42" height="42" alt="Tailwind CSS"></a>
+</p>UI & Motion
 
-UI & Motion
+<p>
+<a href="https://ui.shadcn.com/"><img src="https://cdn.simpleicons.org/shadcnui/000000" width="42" height="42" alt="shadcn/ui"></a>&nbsp;&nbsp;
+<a href="https://motion.dev/"><img src="https://cdn.simpleicons.org/framer/0055FF" width="42" height="42" alt="Framer Motion"></a>
+</p>Backend & Database
 
-"Tailwind CSS" "shadcn/ui" "Framer Motion"
+<p>
+<a href="https://nodejs.org/"><img src="https://cdn.simpleicons.org/nodedotjs/339933" width="42" height="42" alt="Node.js"></a>&nbsp;&nbsp;
+<a href="https://www.mongodb.com/"><img src="https://cdn.simpleicons.org/mongodb/47A248" width="42" height="42" alt="MongoDB"></a>
+</p>Tools & Deployment
 
-Backend
+<p>
+<a href="https://git-scm.com/"><img src="https://cdn.simpleicons.org/git/F05032" width="42" height="42" alt="Git"></a>&nbsp;&nbsp;
+<a href="https://github.com/"><img src="https://cdn.simpleicons.org/github/181717" width="42" height="42" alt="GitHub"></a>&nbsp;&nbsp;
+<a href="https://vercel.com/"><img src="https://cdn.simpleicons.org/vercel/000000" width="42" height="42" alt="Vercel"></a>&nbsp;&nbsp;
+<a href="https://code.visualstudio.com/"><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="42" height="42" alt="VS Code"></a>
+</p>AI
 
-"Node.js" "MongoDB" "REST APIs"
-
-Tools & Deployment
-
-"Git" "GitHub" "Vercel" "VS Code"
-
-AI
-
-"Gemini" "AI APIs" "AI-Assisted Development"
-
----
+<p>
+<img src="https://cdn.simpleicons.org/googlegemini/4285F4" width="42" height="42" alt="Gemini">
+</p>
 
 ✦ CURRENTLY
 
