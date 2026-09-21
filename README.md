@@ -47,40 +47,44 @@ What I build
 - ◈ Custom Digital Products
 
 ---
+
 ⚡ TECHNOLOGY
 
 Frontend
 
-<p>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.simpleicons.org/html5/E34F26" width="42" height="42" alt="HTML5"></a>&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.simpleicons.org/css/1572B6" width="42" height="42" alt="CSS3"></a>&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="42" height="42" alt="JavaScript"></a>&nbsp;&nbsp;
-<a href="https://www.typescriptlang.org/"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="42" height="42" alt="TypeScript"></a>&nbsp;&nbsp;
-<a href="https://react.dev/"><img src="https://cdn.simpleicons.org/react/61DAFB" width="42" height="42" alt="React"></a>&nbsp;&nbsp;
-<a href="https://nextjs.org/"><img src="https://cdn.simpleicons.org/nextdotjs/000000" width="42" height="42" alt="Next.js"></a>&nbsp;&nbsp;
-<a href="https://tailwindcss.com/"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="42" height="42" alt="Tailwind CSS"></a>
+<p align="center">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.simpleicons.org/html5/E34F26" height="42" alt="HTML5"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.simpleicons.org/css/1572B6" height="42" alt="CSS"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="42" alt="JavaScript"></a>
+<a href="https://www.typescriptlang.org/"><img src="https://cdn.simpleicons.org/typescript/3178C6" height="42" alt="TypeScript"></a>
+<a href="https://react.dev/"><img src="https://cdn.simpleicons.org/react/61DAFB" height="42" alt="React"></a>
+<a href="https://nextjs.org/"><img src="https://cdn.simpleicons.org/nextdotjs/000000" height="42" alt="Next.js"></a>
 </p>UI & Motion
 
-<p>
-<a href="https://ui.shadcn.com/"><img src="https://cdn.simpleicons.org/shadcnui/000000" width="42" height="42" alt="shadcn/ui"></a>&nbsp;&nbsp;
-<a href="https://motion.dev/"><img src="https://cdn.simpleicons.org/framer/0055FF" width="42" height="42" alt="Framer Motion"></a>
-</p>Backend & Database
+<p align="center">
+<a href="https://tailwindcss.com/"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="42" alt="Tailwind CSS"></a>
+<a href="https://ui.shadcn.com/"><img src="https://cdn.simpleicons.org/shadcnui/000000" height="42" alt="shadcn/ui"></a>
+<a href="https://motion.dev/"><img src="https://cdn.simpleicons.org/framer/0055FF" height="42" alt="Motion"></a>
+</p>Backend & Data
 
-<p>
-<a href="https://nodejs.org/"><img src="https://cdn.simpleicons.org/nodedotjs/339933" width="42" height="42" alt="Node.js"></a>&nbsp;&nbsp;
-<a href="https://www.mongodb.com/"><img src="https://cdn.simpleicons.org/mongodb/47A248" width="42" height="42" alt="MongoDB"></a>
+<p align="center">
+<a href="https://nodejs.org/"><img src="https://cdn.simpleicons.org/nodedotjs/339933" height="42" alt="Node.js"></a>
+<a href="https://www.mongodb.com/"><img src="https://cdn.simpleicons.org/mongodb/47A248" height="42" alt="MongoDB"></a>
 </p>Tools & Deployment
 
-<p>
-<a href="https://git-scm.com/"><img src="https://cdn.simpleicons.org/git/F05032" width="42" height="42" alt="Git"></a>&nbsp;&nbsp;
-<a href="https://github.com/"><img src="https://cdn.simpleicons.org/github/181717" width="42" height="42" alt="GitHub"></a>&nbsp;&nbsp;
-<a href="https://vercel.com/"><img src="https://cdn.simpleicons.org/vercel/000000" width="42" height="42" alt="Vercel"></a>&nbsp;&nbsp;
-<a href="https://code.visualstudio.com/"><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="42" height="42" alt="VS Code"></a>
+<p align="center">
+<a href="https://git-scm.com/"><img src="https://cdn.simpleicons.org/git/F05032" height="42" alt="Git"></a>
+<a href="https://github.com/"><img src="https://cdn.simpleicons.org/github/181717" height="42" alt="GitHub"></a>
+<a href="https://vercel.com/"><img src="https://cdn.simpleicons.org/vercel/000000" height="42" alt="Vercel"></a>
+<a href="https://code.visualstudio.com/"><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="42" alt="VS Code"></a>
 </p>AI
 
-<p>
-<img src="https://cdn.simpleicons.org/googlegemini/4285F4" width="42" height="42" alt="Gemini">
-</p>
+<p align="center">
+<a href="https://gemini.google.com/"><img src="https://cdn.simpleicons.org/googlegemini/4285F4" height="42" alt="Gemini"></a>
+<a href="https://www.anthropic.com/"><img src="https://cdn.simpleicons.org/anthropic/000000" height="42" alt="Claude"></a>
+<a href="https://openai.com/"><img src="https://cdn.simpleicons.org/openai/000000" height="42" alt="OpenAI"></a>
+<a href="https://qwen.ai/"><img src="https://cdn.simpleicons.org/qwen/000000" height="42" alt="Qwen"></a>
+</p>---
 
 ✦ CURRENTLY
 
