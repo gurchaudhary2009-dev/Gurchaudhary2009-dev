@@ -1,96 +1,64 @@
 <div align="center">✦ GURLEEN CHAUDHARY
 
-"WEB DEVELOPER" · "AI BUILDER" · "FOUNDER @ COSMOGENIX"
+WEB DEVELOPER · AI BUILDER · FOUNDER @ COSMOGENIX
 
-<br>BUILDING THE WEB, DIFFERENTLY.
+Building bold digital experiences at the intersection of code, AI & design.
 
-Code meets design. AI meets creativity.
-
-<br>""Cosmogenix" (https://img.shields.io/badge/✦_COSMOGENIX-111111?style=for-the-badge)" (https://cosmogenix.vercel.app/)
-""GitHub" (https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/Gurchaudhary2009-dev)
-""Instagram" (https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=white)" (https://instagram.com/cosmogenix.studio)
+<br>" COSMOGENIX " (https://cosmogenix.vercel.app/) · " GITHUB " (https://github.com/Gurchaudhary2009-dev) · " INSTAGRAM " (https://instagram.com/cosmogenix.studio)
 
 </div>---
 
-◈ WHO I AM
+◈ ABOUT
 
-I'm a web developer and AI builder focused on creating digital experiences that combine:
+I'm a web developer and builder focused on creating modern, high-quality digital experiences.
 
-"DESIGN × CODE × AI × EXPERIENCE"
+I enjoy turning ideas into products that are:
 
-I enjoy taking an idea from a blank screen and turning it into something fast, polished, interactive and memorable.
+Fast · Beautiful · Interactive · Useful
 
-Currently building Cosmogenix — my premium web development studio.
+My current focus is building Cosmogenix, a premium web development studio.
 
 ---
 
 ✦ COSMOGENIX
 
-A digital studio for ambitious businesses.
+Digital experiences, built differently.
 
-Cosmogenix creates modern websites and digital experiences designed to help businesses build a stronger presence on the web.
-
-              ┌─────────────────┐
-              │      IDEA       │
-              └────────┬────────┘
-                       ↓
-              ┌─────────────────┐
-              │     DESIGN      │
-              └────────┬────────┘
-                       ↓
-              ┌─────────────────┐
-              │      CODE       │
-              └────────┬────────┘
-                       ↓
-              ┌─────────────────┐
-              │   AI + MOTION   │
-              └────────┬────────┘
-                       ↓
-              ┌─────────────────┐
-              │   EXPERIENCE    │
-              └─────────────────┘
+Cosmogenix is a web development studio focused on creating premium websites and modern digital experiences for businesses.
 
 What I build
 
-◈ Premium Business Websites
-◈ High-Conversion Landing Pages
-◈ Interactive Web Experiences
-◈ Modern UI/UX
-◈ AI-Powered Web Products
-◈ Custom Digital Experiences
+- ◈ Premium business websites
+- ◈ High-conversion landing pages
+- ◈ Modern UI/UX
+- ◈ Interactive web experiences
+- ◈ AI-powered web applications
+- ◈ Custom digital products
+
+«Design × Development × AI»
+
+" Explore Cosmogenix → " (https://cosmogenix.vercel.app/)
 
 ---
 
-⚡ THE TOOLKIT
+⚡ TECHNOLOGY
 
-<div align="center">DEVELOPMENT
+Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />BACKEND · DATABASE · DEPLOYMENT
+"HTML" · "CSS" · "JavaScript" · "TypeScript"
+"React" · "Next.js" · "Tailwind CSS"
 
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,git,github,vercel" />DEVELOPMENT ENVIRONMENT
+Backend & Data
 
-<img src="https://skillicons.dev/icons?i=vscode" /><br><br>
+"Node.js" · "MongoDB" · "REST APIs"
+
+Tools & Deployment
+
+"Git" · "GitHub" · "VS Code" · "Vercel"
+
+AI
 
 "Gemini" · "AI APIs" · "AI-Assisted Development"
-
-</div>---
-
-◇ WHAT I CARE ABOUT
-
-01 ── DESIGN
-     Interfaces should feel intentional.
-
-02 ── PERFORMANCE
-     Beautiful shouldn't mean slow.
-
-03 ── EXPERIENCE
-     Every interaction should have a purpose.
-
-04 ── SIMPLICITY
-     Complex technology, simple experience.
-
-05 ── EXPERIMENTATION
-     The best ideas start as experiments.
 
 ---
 
@@ -98,69 +66,99 @@ What I build
 
 🌌 COSMOGENIX
 
-"BUILDING"
+Status: "BUILDING"
 
-A premium web development studio focused on creating memorable digital experiences for businesses.
+A premium web studio focused on creating memorable digital experiences for ambitious businesses.
 
-Exploring:
+Currently exploring:
 
 "Next.js" · "React" · "TypeScript" · "AI" · "Motion" · "UI/UX"
 
 ---
 
-🧬 MY BUILD LOOP
+🧬 HOW I BUILD
 
-IDEA
-  ↓
-RESEARCH
-  ↓
-DESIGN
-  ↓
-BUILD
-  ↓
-BREAK
-  ↓
-FIX
-  ↓
-POLISH
-  ↓
-SHIP
-  ↓
-REPEAT
+        IDEA
+          │
+          ▼
+      RESEARCH
+          │
+          ▼
+        DESIGN
+          │
+          ▼
+         CODE
+          │
+          ▼
+       AI + UX
+          │
+          ▼
+        TEST
+          │
+          ▼
+       POLISH
+          │
+          ▼
+        SHIP
+          │
+          ▼
+       ITERATE
 
-«I don't aim to make websites that simply work.
-I aim to make websites people remember.»
+I don't want to build websites that simply work.
+
+I want to build websites that feel exceptional.
 
 ---
 
-📊 GITHUB
+◇ WHAT I'M LEARNING
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Gurchaudhary2009-dev&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" /><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurchaudhary2009-dev&layout=compact&hide_border=true&theme=transparent" /></div>---
+→ Advanced Web Development
+→ Next.js & React
+→ TypeScript
+→ Modern UI/UX
+→ Web Animation
+→ AI-powered Applications
+→ Product Development
+→ Building & Growing Cosmogenix
+
+---
+
+💡 BUILD PHILOSOPHY
+
+«Think bigger. Build better. Keep shipping.»
+
+Every project is an opportunity to learn.
+
+Every mistake is feedback.
+
+Every release is progress.
+
+---
 
 🌐 CONNECT
 
-<div align="center">✦ COSMOGENIX
+✦ COSMOGENIX
 
 Premium Websites · Digital Experiences · AI
 
-<br>"ENTER COSMOGENIX →" (https://cosmogenix.vercel.app/)
+🌐 Website
+https://cosmogenix.vercel.app/
 
-<br>"Instagram" (https://instagram.com/cosmogenix.studio)
-  ·  
-"GitHub" (https://github.com/Gurchaudhary2009-dev)
+📸 Instagram
+https://instagram.com/cosmogenix.studio
 
-<br><br>
+💻 GitHub
+https://github.com/Gurchaudhary2009-dev
 
-📩 BUSINESS INQUIRIES
-
+📩 Business inquiries
 cosmogenix.studio@gmail.com
 
-</div>---
+---
 
 <div align="center">"BUILD · SHIP · EVOLVE"
 
-Turning ambitious ideas into digital experiences.
+✦ COSMOGENIX
 
-<br>✦ COSMOGENIX
+Turning ambitious ideas into digital experiences.
 
 </div>
