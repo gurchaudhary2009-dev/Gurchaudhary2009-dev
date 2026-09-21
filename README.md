@@ -77,15 +77,7 @@ Frontend
 <a href="https://github.com/"><img src="https://cdn.simpleicons.org/github/181717" height="42" alt="GitHub"></a>
 <a href="https://vercel.com/"><img src="https://cdn.simpleicons.org/vercel/000000" height="42" alt="Vercel"></a>
 <a href="https://code.visualstudio.com/"><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="42" alt="VS Code"></a>
-</p>AI
-
-<p align="center">
-<a href="https://gemini.google.com/"><img src="https://cdn.simpleicons.org/googlegemini/4285F4" height="42" alt="Gemini"></a>
-<a href="https://www.anthropic.com/"><img src="https://cdn.simpleicons.org/anthropic/000000" height="42" alt="Claude"></a>
-<a href="https://openai.com/"><img src="https://cdn.simpleicons.org/openai/000000" height="42" alt="OpenAI"></a>
-<a href="https://qwen.ai/"><img src="https://cdn.simpleicons.org/qwen/000000" height="42" alt="Qwen"></a>
-</p>---
-
+</p>
 ✦ CURRENTLY
 
 Building      → Cosmogenix
