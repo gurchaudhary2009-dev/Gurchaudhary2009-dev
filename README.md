@@ -1,159 +1,117 @@
-<div align="center">✦ GURLEEN CHAUDHARY
+⚡ COSMOGENIX
 
-"WEB DEVELOPER" · "AI BUILDER" · "FOUNDER"
+WEB DEVELOPER · AI BUILDER · FOUNDER
 
-I don't just write code — I build digital experiences.
+«Building premium digital experiences with modern web technology, AI, and relentless attention to detail.»
 
-<br/><a href="https://cosmogenix.vercel.app/">
-<img src="https://img.shields.io/badge/✦_COSMOGENIX-000000?style=for-the-badge&labelColor=111111" />
-</a>
-<a href="https://instagram.com/cosmogenix.studio">
-<img src="https://img.shields.io/badge/@cosmogenix.studio-000000?style=for-the-badge&logo=instagram&logoColor=white" />
-</a></div>---
-
-🌌 THE BUILDER
-
-I'm a developer focused on the intersection of:
-
-CODE × AI × DESIGN
-
-I build modern web experiences with a strong focus on clean interfaces, fluid interactions, thoughtful UX and ambitious ideas.
-
-Currently building Cosmogenix — a premium web development studio turning businesses and ideas into memorable digital experiences.
+Founder of "Cosmogenix Studio" (https://cosmogenixstudio.vercel.app) — a modern web development studio focused on creating high-end websites and digital experiences for ambitious brands.
 
 ---
 
-✦ COSMOGENIX
+🌐 COSMOGENIX STUDIO
 
-«Digital experiences, built differently.»
+Premium websites. Modern technology. Zero generic templates.
 
-Cosmogenix is my web development studio focused on creating premium websites and digital experiences for businesses that want more than a template.
+Cosmogenix Studio builds visually striking, responsive and conversion-focused websites using modern frontend technologies, advanced animations, 3D experiences and AI-assisted development.
 
-              DESIGN
-                 ×
-            DEVELOPMENT
-                 ×
-                AI
-                 ×
-            EXPERIENCE
+🚀 Explore Cosmogenix
 
-What I build
-
-- ◈ Premium Business Websites
-- ◈ High-Conversion Landing Pages
-- ◈ Interactive Web Experiences
-- ◈ Modern UI/UX
-- ◈ AI-Powered Web Applications
-- ◈ Custom Digital Products
+Website: https://cosmogenixstudio.vercel.app
+Instagram: "@cosmogenix.studio" (https://instagram.com/cosmogenix.studio)
 
 ---
 
-⚡ TECHNOLOGY
+🧠 WHAT I BUILD
+
+- ⚡ Premium business websites
+- 🎨 High-end UI/UX experiences
+- 🧊 3D & interactive web experiences
+- 🎬 Motion-driven interfaces
+- 🤖 AI-powered web applications
+- 📱 Fully responsive websites
+- 🔗 API & third-party integrations
+- 🚀 Production-ready deployments
+
+---
+
+🛠️ TECH STACK
 
 Frontend
 
-<p align="center">
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.simpleicons.org/html5/E34F26" height="42" alt="HTML5"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.simpleicons.org/css/1572B6" height="42" alt="CSS"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="42" alt="JavaScript"></a>
-<a href="https://www.typescriptlang.org/"><img src="https://cdn.simpleicons.org/typescript/3178C6" height="42" alt="TypeScript"></a>
-<a href="https://react.dev/"><img src="https://cdn.simpleicons.org/react/61DAFB" height="42" alt="React"></a>
-<a href="https://nextjs.org/"><img src="https://cdn.simpleicons.org/nextdotjs/000000" height="42" alt="Next.js"></a>
-</p>UI & Motion
+"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+"TypeScript" (https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+"React" (https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+"Next.js" (https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-<p align="center">
-<a href="https://tailwindcss.com/"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="42" alt="Tailwind CSS"></a>
-<a href="https://ui.shadcn.com/"><img src="https://cdn.simpleicons.org/shadcnui/000000" height="42" alt="shadcn/ui"></a>
-<a href="https://motion.dev/"><img src="https://cdn.simpleicons.org/framer/0055FF" height="42" alt="Motion"></a>
-</p>Backend & Data
+Styling & Motion
 
-<p align="center">
-<a href="https://nodejs.org/"><img src="https://cdn.simpleicons.org/nodedotjs/339933" height="42" alt="Node.js"></a>
-<a href="https://www.mongodb.com/"><img src="https://cdn.simpleicons.org/mongodb/47A248" height="42" alt="MongoDB"></a>
-</p>Tools & Deployment
+"Tailwind CSS" (https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+"Framer Motion" (https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white)
 
-<p align="center">
-<a href="https://git-scm.com/"><img src="https://cdn.simpleicons.org/git/F05032" height="42" alt="Git"></a>
-<a href="https://github.com/"><img src="https://cdn.simpleicons.org/github/181717" height="42" alt="GitHub"></a>
-<a href="https://vercel.com/"><img src="https://cdn.simpleicons.org/vercel/000000" height="42" alt="Vercel"></a>
-<a href="https://code.visualstudio.com/"><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="42" alt="VS Code"></a>
-</p>
-✦ CURRENTLY
+Backend & Database
 
-Building      → Cosmogenix
-Developing    → Premium web experiences
-Learning      → Advanced Web Development
-Exploring     → AI × Web × Design
-Shipping      → Real-world digital products
+"Node.js" (https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+"MongoDB" (https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+AI & Development
+
+"Claude" (https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+"ChatGPT" (https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+"Google Gemini" (https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+"Qwen" (https://img.shields.io/badge/Qwen-615EFF?style=for-the-badge)
+
+Deployment
+
+"Vercel" (https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-🧩 HOW I BUILD
+🚀 CURRENTLY BUILDING
 
-IDEA
- ↓
-DESIGN
- ↓
-CODE
- ↓
-AI + UX
- ↓
-TEST
- ↓
-POLISH
- ↓
-SHIP
- ↓
-ITERATE
+"COSMOGENIX STUDIO"
 
-I don't build just to make something work.
+A premium web development studio focused on helping businesses establish a powerful digital presence.
 
-I build to make it feel exceptional.
+Core focus:
+
+"Web Design" → "Development" → "AI" → "3D" → "Motion" → "Deployment"
 
 ---
 
-🎯 MY FOCUS
+💡 DEVELOPMENT PHILOSOPHY
 
-- Advanced Next.js & React
-- Modern UI/UX
-- Interactive web experiences
-- Smooth animations
-- AI-powered applications
-- Product development
-- Building and growing Cosmogenix
+Think Different.
+Design Intentionally.
+Build Without Limits.
+Ship Fast.
+Keep Improving.
 
----
+I believe a website should be more than a collection of pages.
 
-🧠 PHILOSOPHY
-
-«Think bigger. Build better. Ship relentlessly.»
-
-Every project is an experiment.
-Every bug is feedback.
-Every release is progress.
+It should communicate a brand, create trust, feel memorable and turn attention into action.
 
 ---
 
-🌐 CONNECT
+📊 GITHUB
 
-✦ COSMOGENIX
+"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=Gurchaudhary2009-dev&show_icons=true&hide_border=true&theme=transparent)
 
-Premium Websites · Digital Experiences · AI
-
-Website: "cosmogenix.vercel.app" (https://cosmogenix.vercel.app/)
-
-Instagram: "@cosmogenix.studio" (https://instagram.com/cosmogenix.studio)
-
-GitHub: "Gurchaudhary2009-dev" (https://github.com/Gurchaudhary2009-dev)
-
-Business: "cosmogenix.studio@gmail.com"
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=Gurchaudhary2009-dev&layout=compact&hide_border=true&theme=transparent)
 
 ---
 
-<div align="center">"BUILD • SHIP • EVOLVE"
+🌌 CONNECT
 
-Turning ambitious ideas into digital experiences.
+Cosmogenix Studio
+🌐 https://cosmogenixstudio.vercel.app
+📸 https://instagram.com/cosmogenix.studio
+📧 cosmogenix.studio@gmail.com
 
-<br/>✦ COSMOGENIX
+---
 
-</div>
+⚡ BUILDING THE FUTURE, ONE DIGITAL EXPERIENCE AT A TIME.
+
+© 2026 Cosmogenix Studio
